@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\bin\Debug\net6.0\hw_4.exe
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\bin\Debug\net6.0\hw_4.deps.json
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\bin\Debug\net6.0\hw_4.runtimeconfig.json
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\bin\Debug\net6.0\hw_4.dll
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\bin\Debug\net6.0\hw_4.pdb
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\bin\Debug\net6.0\hw_4.xml
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.csproj.AssemblyReference.cache
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.AssemblyInfo.cs
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.dll
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\refint\hw_4.dll
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.pdb
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\hw_4.genruntimeconfig.cache
+C:\Users\vikto\source\repos\courses\hw4\Nix_4_Arrays\hw_4\hw_4\obj\Debug\net6.0\ref\hw_4.dll

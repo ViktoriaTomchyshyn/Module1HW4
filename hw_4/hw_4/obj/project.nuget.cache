@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JjlPDbW2XkMabSNLUdVMmmN1vGTjPuBG9djzAiLuEMn2+9aRcsdxbfGeC6hgb+kCAd7BC+XfDXFSOBkYq4E8MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\courses\\hw4\\Nix_4_Arrays\\hw_4\\hw_4\\hw_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
